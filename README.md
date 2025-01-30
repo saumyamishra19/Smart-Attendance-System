@@ -42,7 +42,3 @@ computer vision.
 
 
 
-
-
-**NOTE: Any modification/additional feature in this project would be appreciated. \
-Send a PR along with output screenshot, to get the new changes merged.**
